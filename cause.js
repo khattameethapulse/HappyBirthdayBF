@@ -6,12 +6,12 @@
         gif: "gif1.gif"
     },
     { 
-        text: "May your day be filled with love, laughter, and endless joy. 🌸 ", 
+        text: "May your everyday be filled with love, laughter, and endless joy. 🌸 ", 
         emoji: "💗",
         gif: "gif2.gif"
     },
     { 
-        text: "Wishing you success, happiness, and everything your heart desires. ✨ ", 
+        text: "Wishing you success, happiness, and everything your heart desires (Me as well). ✨ ", 
         emoji: "💕",
         gif: "gif1.gif"
     },
